@@ -5,7 +5,7 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento Backend utilizando **Java** e **Spring Boot**. Possuo conhecimentos sólidos em Front-end (HTML, CSS e JavaScript) e experiência com **Design Gráfico e UI/UX (Adobe Photoshop e Figma)**. 
 
-Essa combinação me proporciona uma visão completa do ciclo de desenvolvimento de software, permitindo maior sensibilidade para interfaces, autonomia na manipulação de assets visuais e uma integração muito mais fluida entre o design e o código. Meu objetivo é entregar soluções não apenas funcionais e escaláveis, mas também visualmente bem estruturadas.
+Essa combinação me proporciona uma visão completa do ciclo de desenvolvimento de software, permitindo maior sensibilidade para interfaces, autonomia na manipulação de assets visuais e uma integração muito mais fluida entre o design e o código. Meu objetivo é entregar soluções não apenas funcionais e escaláveis, mas também visualmente bem estruturadas e testadas.
 
 ---
 
@@ -16,6 +16,10 @@ Essa combinação me proporciona uma visão completa do ciclo de desenvolvimento
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🧪 Testes & Qualidade
+![JUnit 5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-6DB33F?style=for-the-badge&logo=mockito&logoColor=white) *(Nota: se o logo não carregar, use a cor do Spring)*
 
 ### 🎨 Frontend & Design
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
