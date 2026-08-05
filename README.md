@@ -19,7 +19,7 @@ Essa combinação me proporciona uma visão completa do ciclo de desenvolvimento
 
 ### 🧪 Testes & Qualidade
 ![JUnit 5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-6DB33F?style=for-the-badge&logo=mockito&logoColor=white) *(Nota: se o logo não carregar, use a cor do Spring)*
+![Mockito](https://img.shields.io/badge/Mockito-6DB33F?style=for-the-badge&logo=mockito&logoColor=white)
 
 ### 🎨 Frontend & Design
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
