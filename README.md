@@ -45,13 +45,4 @@ Essa combinação me proporciona uma visão completa do ciclo de desenvolvimento
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=opablosantanaa&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=opablosantanaa&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Linguagens mais usadas" />
-</div>
-
----
-
 > 💡 *"A simplicidade é o último grau de sofisticação."* – Leonardo da Vinci
