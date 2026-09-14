@@ -16,8 +16,15 @@ Focado em **Java** e **Spring Boot**, combino sólida base em Backend com conhec
 | Projeto | Descrição | Stack Principal |
 | :--- | :--- | :--- |
 | 📊 **[InvestFlow](https://github.com/opablosantanaa/InvestFlow-Agregador-de-Investimentos)** | API REST robusta para gestão de investimentos, integração com API externa (OpenFeign) e testes unitários. | `Spring Boot` `Java 21` `Docker` `JUnit` |
-| 🕵️ **[Impostor The Game](https://impostorthegame.vercel.app)** 🟢 *Live* | *PWA party game* offline-first com 3 modos de jogo, cache inteligente (Service Workers) e CI/CD. | `JavaScript` `PWA` `Vercel` |
+| 🕵️ **[Impostor The Game](https://github.com/opablosantanaa/ImpostorTheGame)** | *PWA party game* offline-first com 3 modos de jogo, cache inteligente (Service Workers) e CI/CD. | `JavaScript` `PWA` `Vercel` |
 | 🏢 **[Conecta Arcoverde](https://github.com/opablosantanaa/conecta_arcoverde)** | Plataforma fullstack de empregabilidade com 5 portais (ACL), autenticação JWT e dashboards analíticos. | `Spring Security` `React` `TS` `MySQL` |
+
+### ☁️ Projetos em Produção
+
+| Aplicação | URL |
+| :--- | :--- |
+| 🕵️ **Impostor The Game** | [impostorthegame.vercel.app](https://impostorthegame.vercel.app) |
+| 🏢 **Conecta Arcoverde** | [conecta-arco.vercel.app](https://conecta-arco.vercel.app) |
 
 ### 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
@@ -37,8 +44,6 @@ Focado em **Java** e **Spring Boot**, combino sólida base em Backend com conhec
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 
-*Foco em deploy contínuo (CI/CD), versionamento semântico robusto e gestão ágil de tarefas para entregas previsíveis.*
-
 ### 🌐 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/pablo-santana-79168332b)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/opablosantanaa)
@@ -48,7 +53,7 @@ Focado em **Java** e **Spring Boot**, combino sólida base em Backend com conhec
 ---
 
 <a id="en"></a>
-## 🇬🇧 English Summary
+## 🇺🇸 English Summary
 
 **Hi, I'm Pablo!** 👋
 I am a **Backend Developer** from Brazil 🇧🇷 specializing in **Java** and **Spring Boot**. I combine backend architecture skills with modern frontend (**React**, PWA) and UI/UX design knowledge to deliver scalable, well-tested, and user-friendly full-stack software solutions.
@@ -57,7 +62,7 @@ I am a **Backend Developer** from Brazil 🇧🇷 specializing in **Java** and *
 *   **Backend Focus:** Java, Spring Boot 3, REST APIs, Docker, Spring Security (JWT), and Unit Testing.
 *   **Frontend & Design:** React, TypeScript, Progressive Web Apps (offline-first), Figma, and Photoshop.
 *   **Workflow:** Agile management (Trello), robust version control (Git), and automated deployments (Vercel).
-*   **Live Project:** Check out [Impostor The Game](https://impostorthegame.vercel.app), an installable PWA party game that works 100% offline!
+*   **Live Projects:** [Impostor The Game](https://impostorthegame.vercel.app) · [Conecta Arcoverde](https://conecta-arco.vercel.app)
 
 📫 **Let's connect:** [LinkedIn](https://br.linkedin.com/in/pablo-santana-79168332b) | **Email:** opablosantanaa@gmail.com
 
